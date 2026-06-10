@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+.resume-container {
+  max-width: 800px;
+  margin: 20px auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+  @apply text-2xl font-semibold text-gray-800 border-b pb-2 mb-4;
+}
+
+@media print {
+  .resume-container {
+    box-shadow: none;
+    margin: 0;
+  }
+  .no-print {
+    display: none;
+  }
+}
