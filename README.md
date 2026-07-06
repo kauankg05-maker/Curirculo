@@ -1,4 +1,4 @@
-# Kauan Gonçalves - Portfólio & Currículo
+# Kauan Gomes  - Portfólio & Currículo
 
 **Desenvolvedor Front-end** | HTML • CSS • JavaScript
 
